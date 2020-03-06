@@ -36,6 +36,8 @@ Start skaffold
 skaffold dev
 ```
 
+Open http://localhost
+
 ## Check
 
 Check services
